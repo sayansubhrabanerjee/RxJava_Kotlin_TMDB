@@ -1,4 +1,4 @@
-# RxJava_Kotlin_TMDB
+# RxJava_Kotlin_TMDB_Retrofit
 Fetching popular movies list from TMDB API using RxJava and Kotlin
 
 
