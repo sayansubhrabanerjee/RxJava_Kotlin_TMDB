@@ -31,6 +31,6 @@ class CommonUtils {
                 .into(imageView)
         }
 
-        fun getMoviesAPIKey(): String = APIConstants.MOVIES_AUTH_KEY
+        fun getMoviesAPIKey(): String = MoviesAuthKeyConstants.MOVIES_AUTH_KEY
     }
 }
